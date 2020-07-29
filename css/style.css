@@ -45,7 +45,7 @@ h1{
 
 .nameChocolate{
   /* background: black; */
-  color: whitesmoke;
+  color: #004080;
   margin-bottom: 30px
 }
 
@@ -63,8 +63,38 @@ line-height: 25px;
   font-size: 18px;
   line-height: 25px;
   width: 60%;
+  color: #004080;
 }
 
 html{
   background-color: pink;
+}
+
+.navlist{
+  list-style: none;
+  display: inline;
+  margin: auto 3%;
+  text-decoration: none;
+  transition: 1s;
+  padding: 1%;
+}
+
+header {
+  text-align: center;
+}
+
+.logo{
+  margin-bottom: 20px;
+}
+
+.banner{
+  width: 90%;
+  height: auto;
+  max-height: 300px;
+  margin: 20px auto;
+  display:block:;
+}
+
+.BannerText1{
+
 }
